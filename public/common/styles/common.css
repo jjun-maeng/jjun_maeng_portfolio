@@ -951,3 +951,16 @@ header.scrollTop::after{
      display: block;
      border: solid 3px #d1e0e5;
 }
+
+.gallery img{
+     position:relative;
+     float: left;
+     height: 250px;
+     width:350px;
+     margin : 2px;
+     border: 1px solid white;
+     z-index:0;
+ }
+ .gallery img:hover{
+     opacity: 0.8;
+ }
