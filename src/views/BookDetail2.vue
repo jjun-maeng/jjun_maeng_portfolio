@@ -230,7 +230,7 @@
       return{
         bookinfolists:[
                 { label: "디자이너", content: "김준명"},
-                { label: "제작 기간", content: "2019-10-01~11-20"},
+                { label: "제작 기간", content: "2019-10-01 ~ 11-20"},
                 { label: "사이즈", content: "600*400*400/ 1400*400*150"},
                 { label: "재료", content: "자작나무, 경첩"},
                 { label: "사용 프로그램", content: "AutoCad ,Rhino6"},
