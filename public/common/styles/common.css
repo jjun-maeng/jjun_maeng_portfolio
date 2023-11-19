@@ -742,12 +742,12 @@ header.scrollTop::after{
      padding: 30px 0 20px 0px;
 }
 .introgroup:nth-of-type(3) {
-     background: url("/images/main_ico3.jpg") no-repeat left 60px/350px;
+     background: url("/images/main_ico3.webp") no-repeat left 60px/350px;
      padding: 0 20px 0 400px;
 }
 
 .introgroup:nth-of-type(4) {
-     background: url("/images/main_ico2.png") no-repeat right 200px/400px;
+     background: url("/images/main_ico2.webp") no-repeat right 60px/750px;
      padding: 30px 0px 30px 0px;
 }
 @media screen and (max-width: 767px) {
